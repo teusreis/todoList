@@ -1,6 +1,6 @@
 # Vanilla javascript Todo App
 
-![Main image](img/main-img.png)
+![Main image](img/main-img.PNG)
 
 ## Desctiption
 Vanilla Todo List is a todo application made up with vanilla html, css and javascript!
